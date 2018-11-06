@@ -4,7 +4,7 @@
 
 ### System Requirements
 
-[`pyenv`](https://github.com/pyenv/pyenv#basic-github-checkout)
+[pyenv](https://github.com/pyenv/pyenv#basic-github-checkout)
 
 [Build Environment](https://github.com/pyenv/pyenv/wiki#suggested-build-environment)
 
