@@ -17,7 +17,7 @@ sudo apt install -y make build-essential libssl-dev zlib1g-dev libbz2-dev librea
 Copy the following into your zsh shell.
 
 ```shell
-git clone git@github.com:philjc/pyenv-zsh-plugin.git "$ZSH_CUSTOM/plugins/pyenv-pjc"
+git clone https://github.com/philjc/pyenv-zsh-plugin.git "$ZSH_CUSTOM/plugins/pyenv-pjc"
 
 # Automatically open .zshrc with vim with the search and replace string to activate the pyenv plugin
 # just hit 'y' and then ':wq' to save
